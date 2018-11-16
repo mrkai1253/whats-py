@@ -1,0 +1,214 @@
+1542356252079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.urWryMcmxT4Q"
+1542356258190	Marionette	INFO	Listening on port 38795
+1542356258203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542356275954	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1542356275997	Marionette	ERROR	[6442450947] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1542356338574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gKKabcoT8oes"
+1542356342895	Marionette	INFO	Listening on port 38561
+1542356342930	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15355, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15355, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356349333	Marionette	INFO	Stopped listening on port 38795
+1542356372622	Marionette	INFO	Stopped listening on port 38561
+[Parent 16051, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356509649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x9w23xDNRwaA"
+1542356513606	Marionette	INFO	Listening on port 34897
+1542356513668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542356526629	Marionette	INFO	Stopped listening on port 34897
+[Parent 17879, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17879, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17879, Gecko_IOThread] WARNING: pipe error (145): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356544090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zR9H5uIVUOgV"
+1542356548284	Marionette	INFO	Listening on port 33163
+1542356548318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542356594905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XC0W6VkSxJWX"
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1542356599855	Marionette	INFO	Listening on port 46335
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1542356601974	Marionette	INFO	Stopped listening on port 46335
+1542356604854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HmYHJpKCl9cH"
+1542356609192	Marionette	INFO	Listening on port 39665
+1542356609291	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22195, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356665942	Marionette	INFO	Stopped listening on port 39665
+1542356675502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vPI6gEYGf8cn"
+1542356680081	Marionette	INFO	Listening on port 37577
+1542356680119	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24285, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24285, Gecko_IOThread] WARNING: pipe error (145): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356701748	Marionette	INFO	Stopped listening on port 37577
+1542356704790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1FjleYBYdGCc"
+1542356708679	Marionette	INFO	Listening on port 46179
+1542356708706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542356721439	Marionette	INFO	Stopped listening on port 33163
+1542356809893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S2CCOzzXvVe9"
+1542356813790	Marionette	INFO	Listening on port 36227
+1542356813809	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26520, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542356861376	Marionette	INFO	Stopped listening on port 36227
+1542356915527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZcCbbNosctsS"
+1542356919544	Marionette	INFO	Listening on port 36135
+1542356919647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542356950390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6xlR026SQGvo"
+1542356955149	Marionette	INFO	Listening on port 40153
+1542356955205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542357077900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gyq6Oj0jiJly"
+1542357086698	Marionette	INFO	Listening on port 37023
+1542357086725	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1082:3
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 32327, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 32327, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542357147432	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1542357147582	Marionette	ERROR	[6442450947] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+1542357149570	Marionette	INFO	Stopped listening on port 37023
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1272: TypeError: currentPanel is undefined
+1542357364394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2N8msvA7hUBu"
+1542357372474	Marionette	INFO	Listening on port 36473
+1542357372531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  remote-settings/monitor_changes
+  threw error:
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1542357478455	Marionette	INFO	Stopped listening on port 40153
+1542357631212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FUuQuDm6P2ig"
+1542357651179	Marionette	INFO	Listening on port 43223
+1542357651260	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542357754430	Marionette	INFO	Stopped listening on port 43223
+1542357940094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zzW8j75bhszq"
+1542357951734	Marionette	INFO	Listening on port 45983
+1542357951755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1542358087228	Marionette	INFO	Stopped listening on port 45983
+1542358095991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zQqioi3HTe8K"
+1542358104794	Marionette	INFO	Listening on port 35155
+1542358104878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 93: TypeError: setting getter-only property "_currentSearchHostname"
+1542358139386	Marionette	INFO	Stopped listening on port 36473
+1542358141532	Marionette	INFO	Stopped listening on port 46179
+1542358143556	Marionette	INFO	Stopped listening on port 36135
+1542358144485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fT6IcRv27uBD"
+1542358148878	Marionette	INFO	Listening on port 37809
+1542358148909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542358191600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.67Ajmr7s2DXO"
+1542358195822	Marionette	INFO	Listening on port 34803
+1542358195914	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+[Parent 10956, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 10956, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542358734796	Marionette	INFO	Stopped listening on port 34803
+1542358753500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.44ZYeraHTjiH"
+1542358757471	Marionette	INFO	Listening on port 43393
+1542358757518	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
