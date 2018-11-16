@@ -31,3 +31,4 @@ class Whatspy:
 # test
 whatspy = Whatspy(6)
 whatspy.send_message('Anandhu Palayat', 'Odd')
+whatspy.quit_browser()

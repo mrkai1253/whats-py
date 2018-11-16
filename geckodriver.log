@@ -212,3 +212,30 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13498, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13498, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542359061147	Marionette	INFO	Stopped listening on port 43393
+1542359065361	Marionette	INFO	Stopped listening on port 37809
+1542359224082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q3IQkICSo0x4"
+1542359228043	Marionette	INFO	Listening on port 40315
+1542359228115	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16103, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16081, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1542359259599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ewoJ4dWbkEXg"
+1542359264192	Marionette	INFO	Listening on port 34191
+1542359264232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542359306680	Marionette	INFO	Stopped listening on port 34191
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17935, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-iM9cPA/firefox-63.0+linuxmint2+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
