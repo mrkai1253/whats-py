@@ -15,7 +15,7 @@ class Whatspy:
         self.driver.maximize_window()
         self.driver.get("https://web.whatsapp.com")
         time.sleep(sleep_time)
-        print('[ ] Logged in')
+
 
     def send_message(self, receiver, message):
         search_box = self.driver.find_element_by_class_name('copyable-text')
@@ -30,5 +30,12 @@ class Whatspy:
 
 # test
 whatspy = Whatspy(6)
-whatspy.send_message('Anandhu Palayat', 'Odd')
+
+user = raw_input("What's the name?")
+n = int(raw_input("Spam time?"))
+
+
+
+for _ in range(n):
+	whatspy.send_message(user, 'Odd kandam')
 whatspy.quit_browser()
