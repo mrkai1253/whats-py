@@ -31,11 +31,11 @@ class Whatspy:
 # test
 whatspy = Whatspy(6)
 
-user = raw_input("What's the name?")
-n = int(raw_input("Spam time?"))
+user = raw_input("User name?")
+n = int(raw_input("Count"))
 
 
 
 for _ in range(n):
-	whatspy.send_message(user, 'Odd kandam')
+	whatspy.send_message(user, 'Automated message')
 whatspy.quit_browser()
